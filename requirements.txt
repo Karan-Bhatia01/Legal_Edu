@@ -1,0 +1,13 @@
+groq
+transformers
+sentence-transformers
+langchain
+langchain-groq
+langchain-huggingface
+beautifulsoup4
+requests
+pandas
+numpy
+dotenv
+langchain-community
+PyPDF2  

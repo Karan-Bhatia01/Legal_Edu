@@ -11,3 +11,4 @@ numpy
 dotenv
 langchain-community
 PyPDF2  
+chromadb  # or faiss-cpu
